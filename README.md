@@ -3,11 +3,9 @@
 An interactive dashboard that visualizes key insights into railway ticket sales, journey performance, and passenger behavior.  
 It highlights sales trends, journey reliability, and operational issues using clear, data-driven visuals.
 
-![Railway Journey Dashboard](Screenshot%202025-10-15%20181053.png)
-
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **Departure Station Sales:** Displays top-performing departure stations by total ticket sales.  
 - **Ticket Class Sales:** Compares Standard vs First Class ticket performance.  
@@ -18,7 +16,7 @@ It highlights sales trends, journey reliability, and operational issues using cl
 
 ---
 
-## ⚙️ Filters
+## Filters
 
 Interactive filters allow users to focus on specific data:
 
@@ -28,12 +26,11 @@ Interactive filters allow users to focus on specific data:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
-- **Microsoft Excel / Power BI** — For data visualization and interactivity  
-- **Power Query / DAX** — For data transformation and calculated metrics  
-- **Sample Dataset** — Simulated railway ticketing and journey data  
-
+- **Tableau** — For data visualization and interactivity  
+- **Power Query ** — For data transformation and calculated metrics
+  
 ---
 
 ## 📈 Insights
