@@ -29,7 +29,7 @@ Interactive filters allow users to focus on specific data:
 ## Tools Used
 
 - **Tableau** — For data visualization and interactivity  
-- **Power Query ** — For data transformation and calculated metrics
+- **Power Query** — For data transformation and calculated metrics
   
 ---
 
